@@ -1,1 +1,2 @@
-print("Hello Ruby\n")
+your_name = "Yifu"
+puts "Hello #{your_name}"
